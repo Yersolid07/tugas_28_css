@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+  background-image: url('../img/p3.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+}
+
+a {
+  text-decoration: none;
+}
